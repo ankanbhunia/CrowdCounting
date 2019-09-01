@@ -2,7 +2,7 @@
  
 - I worked on one-shot scene-specific crowd counting that learns to adapt already trained model to a specific test-scene based on a single example. During finetuning different layers are freezed based on the decision of a Policy network. 
 
-# Proposed Framework. 
+### Proposed Framework. 
 
 - Atfirst I pre-trained a regressor model on the UCF-QNRF Dataset. It is our main crowd counting network.
 
