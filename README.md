@@ -1,6 +1,6 @@
-## Flexible deep learning models in computer vision: Finetuing of Scene Adaptive Crowd Counting Models Using Meta learning and Network Policy Estimation
+## Finetuing of Scene Adaptive Crowd Counting Models Using Meta learning and Network Policy Estimation
  
-- I worked on one-shot scene-specific crowd counting that learns to adapt already trained model to a specific test-scene based on a single example. During finetuning different layers are freezed based on the decision of a Policy network. 
+I worked on one-shot scene-specific crowd counting that learns to adapt already trained model to a specific test-scene based on a single example. During finetuning different layers are freezed based on the decision of a Policy network. 
 
 ### Proposed Framework. 
 
